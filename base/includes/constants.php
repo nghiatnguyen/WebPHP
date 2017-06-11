@@ -1,0 +1,10 @@
+<?php
+define('DB_HOST','localhost');
+define('DB_USER','root');
+define('DB_PASS','');
+define('DATABASE','iothing');
+//define('DB_HOST','mysql.hostinger.vn');
+//define('DB_USER','u246802505_root');
+//define('DB_PASS','123456');
+//define('DATABASE','u246802505_kop');
+?>
